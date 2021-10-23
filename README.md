@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chooble</h1>
-<h3 align="center">I'm a student who wants to be a Developer. // I wish my Code would shine through the world.</h3>
+<h3 align="center">I'm a student who wants to be a Developer.<br/>
+  I wish My Code would shine through the World.</h3>
 
 - 🌱 I’m currently learning **React-Native**
 
